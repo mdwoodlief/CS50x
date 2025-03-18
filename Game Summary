@@ -1,0 +1,27 @@
+
+# SCRATCH PROJECT -  Earth's Defense
+
+## PLANNING
+
+### Sprites
+
+1. Ship
+2. Asteroid
+3. Earth
+4. Laser
+
+### Functions
+
+#### Ship
+
+1. Movement (Face Y+ and move x only)
+2. Damage (3 -1/asteroid sprite collision)
+
+#### Laser
+
+1. Movement (move +y only, no x)
+2. Impact (delete when collision with asteroid or reach max Y)
+
+### Earth
+
+1. Damage (5 -1/asteroid collision)
